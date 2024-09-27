@@ -1,7 +1,7 @@
-# UltraBox
+# AlphaBox
 
-UltraBox is an online tool for sketching and sharing instrumental music.
-You can find it [here](https://ultraabox.github.io).
+AlphaBox is an online tool for sketching and sharing instrumental music.
+You can find it [here] (https://03192011.github.io/alphabox/website).
 It is a modification of [JummBox](https://github.com/jummbus/jummbox), which inturn is a modification of the [original BeepBox](https://beepbox.co).
 
 The goal of UltraBox is to combine every single beepbox mod into one. Feel free to contribute!
